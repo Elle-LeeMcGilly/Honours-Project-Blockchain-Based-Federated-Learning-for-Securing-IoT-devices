@@ -1,0 +1,11 @@
+--- LIBRARIES THAT NEED TO BE DOWNLOADED FOR THIS PROJECT ---
+(alternatively you can just drag the .py file into your IDE of choice)
+
+Library         Version
+------------------------
+tensorflow      2.19.0
+keras           3.9.2
+numpy           2.1.3
+matplotlib      3.10.1
+hashlib         
+time
